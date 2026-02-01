@@ -16,7 +16,7 @@ MAX_LAT = 52.271303
 MAX_LON = 20.782088
 
 MIN_ZOOM = 8
-MAX_ZOOM = 16
+MAX_ZOOM = 18
 
 HEADERS = {
     "User-Agent": "TileDownloader/1.0"
